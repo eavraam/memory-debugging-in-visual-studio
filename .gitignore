@@ -1,0 +1,7 @@
+# Some file formats included in the course, probably not allowed to share
+*.pptx
+*.zip
+*.txt
+
+# Visual Studio cache directory
+.vs/
